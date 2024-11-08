@@ -9,9 +9,9 @@
 const char* WIFI_SSID = "Your_SSID";
 const char* WIFI_PASSWORD = "Your_PASSWORD";
 
-const char* LOSANT_DEVICE_ID = "66b65f8a767346f825c179c8";
-const char* LOSANT_ACCESS_KEY = "0b3e8b56-34ef-4efc-b1c7-36e05da926d3";
-const char* LOSANT_ACCESS_SECRET = "d32926ac936e178f5d521336662ce7b2225bb930c7daab7181d056f4a663a759";
+const char* LOSANT_DEVICE_ID = "Your_Device_ID";
+const char* LOSANT_ACCESS_KEY = "Your_Access_Key";
+const char* LOSANT_ACCESS_SECRET = "Your_Access_Secret";
 
 DHT dht_sensor(DHT_SENSOR_PIN, DHT_SENSOR_TYPE);
 

@@ -6,8 +6,8 @@
 #define DHT_SENSOR_TYPE DHT22
 #define PHOTORESISTOR_PIN A0 // The ESP8266 pin A0 connected to photoresistor
 
-const char* WIFI_SSID = "DVC AA (password 12345678)";
-const char* WIFI_PASSWORD = "12345678";
+const char* WIFI_SSID = "Your_SSID";
+const char* WIFI_PASSWORD = "Your_PASSWORD";
 
 const char* LOSANT_DEVICE_ID = "66b65f8a767346f825c179c8";
 const char* LOSANT_ACCESS_KEY = "0b3e8b56-34ef-4efc-b1c7-36e05da926d3";
